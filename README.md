@@ -1,2 +1,1 @@
-# vscode-extension
-OceanWebTurk VS Code
+# OceanWebTurk VS Code

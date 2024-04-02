@@ -1,0 +1,27 @@
+{
+  "name": "oceanwebturk-extension-pack",
+  "displayName": "OceanWebTurk Extension Pack",
+  "description": "OceanWebTurk Extension Pack",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "publisher": "oceanwebturk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oceanwebturk/vscode-extpack"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "oceanwebturk",
+    "extension pack",
+    "php",
+    "snippet"
+  ],
+  "extensionPack": [ 
+   "DEVSENSE.phptools-vscode",
+   "DEVSENSE.composer-php-vscode"
+  ]
+}

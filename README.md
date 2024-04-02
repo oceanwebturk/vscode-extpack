@@ -1,1 +1,2 @@
-# OceanWebTurk VS Code Extension
+# OceanWebTurk Extension Pack
+
